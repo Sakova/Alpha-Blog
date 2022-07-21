@@ -35,6 +35,11 @@ body {
   height: 100%;
 }
 
-#page-content-app {
+#page-content {
   flex: 1 0 auto;
+  background-color: lightgrey;
+}
+
+#sticky-footer {
+  flex-shrink: 0;
 }
