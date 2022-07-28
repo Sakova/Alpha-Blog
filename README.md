@@ -1,24 +1,9 @@
-# README
-
-This README would normally document whatever steps are necessary to get the
-application up and running.
-
-Things you may want to cover:
-
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+# Alpha Blog
+Alpha Blog is an application where you can write your own articles add categories to them, and also watch articles of other users.
+## Features
+- PostgreSQL (production)
+- SQLite (development / test)
+- Minitest
+- etc
+## How to use
+You can try our application by following the link: [Alpha Blog](https://blogtapp.herokuapp.com/)
