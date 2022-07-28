@@ -1,2 +1,9 @@
 <h1 class="text-center mt-4">Edit category</h1>
-<%= render 'form' %>
+<div class="container">
+  <div class="row justify-content-center">
+    <div class="col-10">
+      <%= render 'form' %>
+    </div>
+  </div>
+  <%= link_to 'Back', category_path(@category), class: "text-white btn btn-secondary d-inline-block mb-3" %>
+</div>
