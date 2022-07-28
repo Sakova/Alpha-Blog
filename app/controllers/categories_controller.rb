@@ -28,6 +28,7 @@ class CategoriesController < ApplicationController
   end
 
   def create
+    byebug
     @category = Category.new(category_params)
     if @category.save
       flash[:notice] = "Category was successfuly created"
