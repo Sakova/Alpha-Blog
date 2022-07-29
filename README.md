@@ -9,4 +9,6 @@ Alpha Blog is an application where you can write your own articles add categorie
 - Minitest
 - etc
 ## How to use
+If you want to change your icon use: [Gravatar](https://ru.gravatar.com/)
+
 You can try our application by following the link: [Alpha Blog](https://blogtapp.herokuapp.com/)
