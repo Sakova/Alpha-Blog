@@ -3,6 +3,9 @@ Alpha Blog is an application where you can write your own articles add categorie
 ## Features
 - PostgreSQL (production)
 - SQLite (development / test)
+- Rails 6
+- Bootstrap 5
+- Wabpacker
 - Minitest
 - etc
 ## How to use
